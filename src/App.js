@@ -3191,7 +3191,7 @@ document.querySelector('.game--restart').addEventListener('click', handleRestart
               </li> 
               <li> 
                 <Link to="/solitaire/">solitaire</Link> 
-              </li> 
+              </li>  
             </ul> 
           </nav> 
           <Routes>
