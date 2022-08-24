@@ -1764,7 +1764,7 @@ document.write(`<!DOCTYPE html>
         }
 
         addEventListener('DOMContentLoaded', initialize, false);
-    <\/script>
+    </script>
 </body >
 </html >
 `);
