@@ -2,8 +2,8 @@ document.write(`<!DOCTYPE html>
 <html>
 
 <head>
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/jqueryui/1.12.1/jquery-ui.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.0/jquery.min.js"><\/scrript>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jqueryui/1.12.1/jquery-ui.min.js"><\/scrript>
     <title>Picture Puzzle</title>
     <style>
         body {
@@ -181,7 +181,7 @@ document.write(`<!DOCTYPE html>
             });
             return this;
         };
-</script>
+<\/scrript>
 </head >
             <body>
                 <div id="collage">
@@ -251,7 +251,7 @@ document.write(`<!DOCTYPE html>
                         function rules() {
                             alert('Rearrange the pieces so that you get a sample image. The steps taken are counted');
     }
-                        </script>
+                        <\/scrript>
                 </div>
             </body>
 </html >
