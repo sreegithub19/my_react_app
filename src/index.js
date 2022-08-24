@@ -22,6 +22,7 @@ code {
 `;
 
 const root = document.getElementById('root');
+
 render(
   <div>
   {/* <React.StrictMode> */}
