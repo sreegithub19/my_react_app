@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+document.write(`<!DOCTYPE html>
 <html>
 <head>
     <!-- Copyright (c) Microsoft Corporation. All Rights Reserved. -->
@@ -1767,3 +1767,4 @@
     </script>
 </body >
 </html >
+`);

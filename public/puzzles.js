@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+document.write(`<!DOCTYPE html>
 <html>
 
 <head>
@@ -255,4 +255,5 @@
                 </div>
             </body>
 </html >
+`);
            
