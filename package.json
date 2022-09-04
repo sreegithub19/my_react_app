@@ -42,13 +42,5 @@
   "author": "",
   "proxy": "https://cdnjs.cloudflare.com/ajax/libs",
   "license": "ISC",
-  "devDependencies": {},
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/sreegithub19/my_react_app.git"
-  },
-  "bugs": {
-    "url": "https://github.com/sreegithub19/my_react_app/issues"
-  },
-  "homepage": "https://github.com/sreegithub19/my_react_app#readme"
+  "devDependencies": {}
 }
