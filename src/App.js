@@ -3162,7 +3162,7 @@ document.querySelector('.game--restart').addEventListener('click', handleRestart
   )
   }
 
-const tilt_maze = `
+  const tilt_maze = `
 
 <!DOCTYPE html>
 <html>
@@ -6829,7 +6829,7 @@ html[subframe] body {
               </li> 
               <li> 
                 <Link to="/solitaire/">solitaire</Link> 
-              </li>  
+              </li> 
               <li> 
                 <Link to="/tilt_maze/">Tilted_maze</Link> 
               </li> 
@@ -6851,7 +6851,8 @@ html[subframe] body {
           <Route path="/dino/" element={<Dino />} />
           </Routes>
         </div> 
-      </Router> 
+      </Router>  
+          
     ); 
   } 
 
