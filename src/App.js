@@ -2,7 +2,6 @@
 // https://lightrun.com/answers/nfl-react-helmet-dangerouslysetinnerhtml-not-working-for-script-tags
 // hack - https://www.faqcode4u.com/faq/6327/react-script-tag-not-working-when-inserted-using-dangerouslysetinnerhtml
 
-// not working - Sudoku (not responsive) , puzzles (CORS issue), chess (not rendering)
 
 import logo from './logo.svg';
 import {React,useState, useEffect } from "react"; 
