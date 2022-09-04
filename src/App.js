@@ -135,7 +135,7 @@ const codepen = `
     </script>
 </body>
 </html>
-`
+`;
 
  function Codepen() { 
   //const inlineScript = '(() => { alert("Hello World!") })();'
