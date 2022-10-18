@@ -42,5 +42,9 @@
   "author": "",
   "proxy": "https://cdnjs.cloudflare.com/ajax/libs",
   "license": "ISC",
-  "devDependencies": {}
+  "devDependencies": {
+    "@types/react": "^18.0.21",
+    "@types/react-dom": "^18.0.6",
+    "file-loader": "^6.2.0"
+  }
 }
