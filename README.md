@@ -10,6 +10,10 @@ Commands to run:
 - npm install
 - npm start
 
+Git:
+
+- git add . && git commit -m "c" && git push origin master
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -81,7 +85,6 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
 
-
 Demo:
 
 Part 1:
@@ -92,7 +95,3 @@ https://user-images.githubusercontent.com/55496113/222191537-960f7c15-12db-481c-
 
 Part 3:
 https://user-images.githubusercontent.com/55496113/222191556-b84973c3-e8d2-447b-a480-2e3746994a9b.mp4
-
-
-
-
