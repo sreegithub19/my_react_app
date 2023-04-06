@@ -3374,7 +3374,6 @@ a:visited {
 }
 
 @media (min-height: 425px) {
-  /** Youtube logo by https://codepen.io/alvaromontoro */
   #youtube {
     z-index: 2;
     display: block;
@@ -3458,20 +3457,7 @@ a:visited {
     </div>
   </div>
 </div>
-<a id="youtube" href="https://youtu.be/bTk6dcAckuI" target="_blank">
-  <span>See how this game was made</span>
-</a>
-<div id="youtube-card">
-  How to simulate ball movement in a maze with JavaScript
-</div>
 <script>
-    /*
-
-If you want to know how this game works, you can find a source code walkthrough video here: https://youtu.be/bTk6dcAckuI
-
-Follow me on twitter for more: https://twitter.com/HunorBorbely
-
-*/
 
 Math.minmax = (value, limit) => {
   return Math.max(Math.min(value, limit), -limit);
@@ -10174,11 +10160,11 @@ return this;
     </div>
     <script>
     var images = [
-        { src: 'https://raw.githubusercontent.com/sreegithub19/JavaScript-Applications/main/public/puzzle/img/neeruti.jpg', title: 'Neeruti manor' },
-        { src: 'https://raw.githubusercontent.com/sreegithub19/JavaScript-Applications/main/public/puzzle/img/harju_madise.jpg', title: 'Harju-Madis Church' },
-        { src: 'https://raw.githubusercontent.com/sreegithub19/JavaScript-Applications/main/public/puzzle/img/rahumae.jpg', title: 'Rahumäe train station' },
-        { src: 'https://raw.githubusercontent.com/sreegithub19/JavaScript-Applications/main/public/puzzle/img/kakumae.jpg', title: 'Kakumäe Harbor' },
-        { src: 'https://raw.githubusercontent.com/sreegithub19/JavaScript-Applications/main/public/puzzle/img/kohila.jpg', title: 'Kohila mill' }
+        { src: 'https://raw.githubusercontent.com/sreegithub19/JavaScript-Applications/main/public/puzzle/img/neeruti.jpg', title: 'Title_1' },
+        { src: 'https://raw.githubusercontent.com/sreegithub19/JavaScript-Applications/main/public/puzzle/img/harju_madise.jpg', title: 'Title_2' },
+        { src: 'https://raw.githubusercontent.com/sreegithub19/JavaScript-Applications/main/public/puzzle/img/rahumae.jpg', title: 'Title_3' },
+        { src: 'https://raw.githubusercontent.com/sreegithub19/JavaScript-Applications/main/public/puzzle/img/kakumae.jpg', title: 'Title_4' },
+        { src: 'https://raw.githubusercontent.com/sreegithub19/JavaScript-Applications/main/public/puzzle/img/kohila.jpg', title: 'Title_5' }
     ];
     
     $(function () {
