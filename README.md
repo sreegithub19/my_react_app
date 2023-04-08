@@ -92,4 +92,6 @@ https://user-images.githubusercontent.com/55496113/222205225-81996aef-5829-4168-
 Part 3:
 https://user-images.githubusercontent.com/55496113/222205239-66bad1ff-770c-4985-be63-0355d57e9af9.mp4
 
+Git:
 
+- git add . && git commit -m "c" && git push origin main
